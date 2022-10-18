@@ -1,4 +1,7 @@
 nodo1,nodo2,sendero,distancia,color,estimate
 Séptima Brigada,CasaToro Ford,rs,4.1,red,0
 CasaToro Ford,Los Fundadores,rs,2.1,blue,0
-
+Los Fundadores,Viva centro comercial,rs,0.6,green,0
+Séptima Brigada,Universidad Cooperativa de Colombia,rs,1.7,yellow,0
+Séptima Brigada,Polideportivo La Rosita,rs,1.1,pink,0
+Universidad Cooperativa de Colombia,Corporación Universitaria Autónoma de Nariño - AUNAR,rs,2.8,violet,0
